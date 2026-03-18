@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Dropdown from "../../../components/ui/Dropdown.jsx";
-import { generateInstallationCommands } from "../../../utils/InstallationCommands";
+import { generateInstallationCommands } from "../../../utils/InstallationCommands.js";
 import DockerIcon from '../../../components/icon/DockerIcon.jsx'
 import LinuxIcon from '../../../components/icon/LinuxIcon.jsx'
 import WindowsIcon from "../../../components/icon/WindowsIcon.jsx";
