@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
   ],
-  base: '/varkit-pages/',
+  base: '/forge-page/',
 })
