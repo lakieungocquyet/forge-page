@@ -1,4 +1,4 @@
-name: varkit-pages
+name: forge-page
 on:
   push:
     branches: ["main"]
